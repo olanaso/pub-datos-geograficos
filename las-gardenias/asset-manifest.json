@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/las-gardenias/static/css/main.aca9f5b6.chunk.css",
+    "main.js": "/las-gardenias/static/js/main.bff8f8fc.chunk.js",
+    "runtime-main.js": "/las-gardenias/static/js/runtime-main.083847bb.js",
+    "static/css/2.6309c6bf.chunk.css": "/las-gardenias/static/css/2.6309c6bf.chunk.css",
+    "static/js/2.4d56217e.chunk.js": "/las-gardenias/static/js/2.4d56217e.chunk.js",
+    "index.html": "/las-gardenias/index.html",
+    "precache-manifest.f0189c550a4bca37fc3697954f3ea15b.js": "/las-gardenias/precache-manifest.f0189c550a4bca37fc3697954f3ea15b.js",
+    "service-worker.js": "/las-gardenias/service-worker.js",
+    "static/js/2.4d56217e.chunk.js.LICENSE.txt": "/las-gardenias/static/js/2.4d56217e.chunk.js.LICENSE.txt",
+    "static/media/Etapa_1.svg": "/las-gardenias/static/media/Etapa_1.476d5bd9.svg",
+    "static/media/LogoGardenias.png": "/las-gardenias/static/media/LogoGardenias.1b378859.png",
+    "static/media/LogoModal.png": "/las-gardenias/static/media/LogoModal.a0e9769a.png",
+    "static/media/Lote.jpg": "/las-gardenias/static/media/Lote.7f0f9aa1.jpg",
+    "static/media/Modal.jpg": "/las-gardenias/static/media/Modal.fa2e494c.jpg",
+    "static/media/App.css": "/las-gardenias/static/media/Polygon.d47f2380.svg",
+    "static/media/area_comercial_icono.svg": "/las-gardenias/static/media/area_comercial_icono.5fe73054.svg",
+    "static/media/area_deportiva_icono.svg": "/las-gardenias/static/media/area_deportiva_icono.f1cc26dc.svg",
+    "static/media/area_reservada_icono.svg": "/las-gardenias/static/media/area_reservada_icono.0fe32031.svg",
+    "static/media/area_verde_icono.svg": "/las-gardenias/static/media/area_verde_icono.14652542.svg",
+    "static/media/avenida_icono.svg": "/las-gardenias/static/media/avenida_icono.5a26c473.svg",
+    "static/media/el_wheelchair.svg": "/las-gardenias/static/media/el_wheelchair.f9966217.svg",
+    "static/media/fontisto_close.svg": "/las-gardenias/static/media/fontisto_close.6432d0b5.svg",
+    "static/media/iconhead.svg": "/las-gardenias/static/media/iconhead.c50a6923.svg",
+    "static/media/lineas.svg": "/las-gardenias/static/media/lineas.147a4317.svg",
+    "static/media/preferecial_icono.svg": "/las-gardenias/static/media/preferecial_icono.425bbc09.svg",
+    "static/media/rectangulo.png": "/las-gardenias/static/media/rectangulo.ebc26e99.png",
+    "static/media/road.svg": "/las-gardenias/static/media/road.4d210df9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.083847bb.js",
+    "static/css/2.6309c6bf.chunk.css",
+    "static/js/2.4d56217e.chunk.js",
+    "static/css/main.aca9f5b6.chunk.css",
+    "static/js/main.bff8f8fc.chunk.js"
+  ]
+}
